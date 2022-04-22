@@ -29,7 +29,7 @@ const COSMOS_SDK_REV: &str = "v0.45.1";
 const TENDERMINT_REV: &str = "v0.34.16";
 
 /// The Cosmos ibc-go commit or tag to be cloned and used to build the proto files
-const IBC_REV: &str = "v2.0.3";
+const IBC_REV: &str = "v2.2.0";
 
 /// The wasmd commit or tag to be cloned and used to build the proto files
 const WASMD_REV: &str = "v0.23.0";
